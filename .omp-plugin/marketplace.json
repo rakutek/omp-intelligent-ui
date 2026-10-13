@@ -1,0 +1,21 @@
+{
+	"name": "rakutek",
+	"owner": { "name": "rakutek" },
+	"metadata": {
+		"description": "omp plugins by rakutek"
+	},
+	"plugins": [
+		{
+			"name": "intelligent-ui",
+			"description": "Interactive answer cards: the model composes text, drawings, charts and controls that stream into the chat and can be operated full screen",
+			"source": "./",
+			"version": "0.1.0",
+			"author": { "name": "rakutek" },
+			"homepage": "https://github.com/rakutek/omp-intelligent-ui",
+			"repository": "https://github.com/rakutek/omp-intelligent-ui",
+			"license": "MIT",
+			"category": "productivity",
+			"keywords": ["ui", "generative-ui", "charts", "svg", "interactive"]
+		}
+	]
+}
